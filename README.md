@@ -176,15 +176,4 @@ This project uses the MIT License — see `LICENSE`.
 
 ---
 
-## Next steps I can do for you (pick any and I will execute now):
-
-* Generate full `ci.yml` GitHub Actions file.
-* Create a ready-to-copy `FastAPI` inference boilerplate (complete with Dockerfile and sample model loader).
-* Produce `pyproject.toml` + package skeleton for `python_package_template`.
-* Produce `README.md`, `CONTRIBUTING.md`, `LICENSE` full content files for you to paste into the repo.
-
----
-
-If you want I can now generate specific files (CI, FastAPI sample, Python package skeleton) — say which one and I'll produce the full content ready to paste.
-
 *— Utpal (DAISY helper)*

@@ -81,7 +81,7 @@ DAISY is a starter repo to accelerate building AI capability across Deloitte tea
 ## Get started (local)
 1. Clone:
    ```bash
-   git clone git@github.com:YOUR_ORG/DAISY.git
+   git clone https://github.com/UtpalDas96/DAISY.git
    cd DAISY
 ````
 
